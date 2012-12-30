@@ -1,6 +1,6 @@
 
 #ignore further changes in atktmp/
-.atktmp/
+atktmp/
 #ignore thumbnails created by windows
 Thumbs.db
 #ignore phpstorm project dir
