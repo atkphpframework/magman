@@ -44,9 +44,9 @@
   // "mssql"   - Microsoft SQL Server
   $config_db["default"]["driver"]   = "mysqli";
   $config_db["default"]["host"]     = "localhost";
-  $config_db["default"]["db"]       = "";
-  $config_db["default"]["user"]     = "";
-  $config_db["default"]["password"] = "";
+  $config_db["default"]["db"]       = "magman";
+  $config_db["default"]["user"]     = "magman";
+  $config_db["default"]["password"] = "demo";
   
   /**
    * Cache table meta data and compiled meta node code.
