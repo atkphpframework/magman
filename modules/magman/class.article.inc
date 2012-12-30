@@ -11,5 +11,9 @@ class article extends atkNode
         $this->add(new atkAttribute("author", AF_OBLIGATORY));
 
         $this->setTable("article");
+
+        // add relationship to issue node
+        $this->add(new atkManyToOneRelation("issue_id",
+                                            "magman.issue"));
     }
 }
