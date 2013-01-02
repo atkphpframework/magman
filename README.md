@@ -16,7 +16,7 @@ If you create a new forum topic, be careful to submit it to the ATK forum.
 
 Documentation
 =============
-Refer to the tutorial article at http://www.dalescott.net/achievo-atk-wiki/index.php/ATK_-_A_Business_Framework#Adding_the_Issue_to_Article_Relationship
+Refer to the tutorial article at http://www.dalescott.net/achievo-atk-mediawiki/index.php/ATK_-_A_Business_Framework
 
 Support
 =======
