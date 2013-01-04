@@ -19,5 +19,9 @@ class issue extends atkNode
                                             "magman.article",
                                             "issue_id",
                                             AF_HIDE_LIST));
+
+      // replace reported ID with something more descriptive
+      $this->setDescriptorTemplate(
+        "[description] ([publication_date.year]-[publication_date.month])");
     }
 }
