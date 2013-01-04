@@ -2,11 +2,11 @@ magman - "Magazine Manager"
 ===========================
 magman is a tutorial application developed in the article "ATK - A Business Framework" by Ivo Jansch, published under the same name in the September 2008 issue of php|architect.
 
-A reprint of the original article is available at [dalescott.net](http://www.dalescott.net/achievo-atk-wiki/index.php/ATK_-_A_Business_Framework#Adding_the_Issue_to_Article_Relationship) (published with permission from the author).
+A reprint of the original article is available at [dalescott.net](http://www.dalescott.net/achievo-atk-mediawiki/index.php/ATK_-_A_Business_Framework#Adding_the_Issue_to_Article_Relationship) (published with permission from the author).
 
 To Get Started
 ==============
-Refer to either the original article or the [tutorial article reprint](http://www.dalescott.net/achievo-atk-wiki/index.php/ATK_-_A_Business_Framework#Adding_the_Issue_to_Article_Relationship).
+Refer to either the original article or the [tutorial article reprint](http://www.dalescott.net/achievo-atk-mediawiki/index.php/ATK_-_A_Business_Framework#Adding_the_Issue_to_Article_Relationship).
 
 Communication Channels
 ======================
