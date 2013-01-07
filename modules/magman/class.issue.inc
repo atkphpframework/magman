@@ -8,7 +8,7 @@ class issue extends atkNode
         parent::__construct("issue");
 
         $this->add(new atkAttribute("id", AF_AUTOKEY));
-        $this->add(new atkAttribute("description", AF_OBLIGATORY));
+        $this->add(new atkAttribute("description", AF_OBLIGATORY | AF_SEARCHABLE));
         $this->add(new atkDateAttribute("publication_date"));
 
         $this->setTable("issue");
