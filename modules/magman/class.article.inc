@@ -18,5 +18,9 @@ class article extends atkNode
 
     // add descriptor template
     $this->setDescriptorTemplate("[title] by [author]");
+
+    // add relationship to category node
+    $this->add(new atkManyToOneRelation("category_id",
+                                        "magman.category"));
   }
 }
