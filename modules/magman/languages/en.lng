@@ -1,0 +1,7 @@
+<?php
+// modules/magman/languages/en.lng
+
+$en = array(
+  "category_id" => "Category",
+  "issue_id" => "Issue"
+);
