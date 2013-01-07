@@ -4,7 +4,7 @@ class article extends atkNode
 {
   public function __construct()
   {
-    parent::__construct("article");
+    parent::__construct("article", NF_EXPORT);
 
     $this->add(new atkAttribute("id", AF_AUTOKEY));
     $this->add(new atkAttribute("title", AF_OBLIGATORY | AF_SEARCHABLE));
