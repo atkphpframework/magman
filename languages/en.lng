@@ -1,8 +1,8 @@
 <?php
 $en=array(
-  "app_description" => "Welcome to this ATK application.",
-  "app_shorttitle" => "ATKApp",
-  "app_title" =>  "Application name",
+  "app_description" => "Welcome to MagMan.",
+  "app_shorttitle" => "MagMan",
+  "app_title" =>  "Magazine Manager",
 
   // Menu Items
   "title_test_attributes" =>  "Test attributes",
