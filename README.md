@@ -4,7 +4,7 @@ magman is a tutorial application developed in the article "ATK - A Business Fram
 
 To Get Started
 ==============
-Refer to either the original php|architect article.
+Refer to the tutorial article "ATK - A Business Framework.pdf" in the root directory, recreated from the original text with permission of Ivo Jansch.
 
 Communication Channels
 ======================
